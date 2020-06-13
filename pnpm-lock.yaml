@@ -1,0 +1,27 @@
+dependencies:
+  phin: 3.5.0
+  semver: 7.3.2
+lockfileVersion: 5.1
+packages:
+  /centra/2.4.2:
+    dev: false
+    resolution:
+      integrity: sha512-f1RaP0V1HqVNEXfLfjNBthB2yy3KnSGnPCnOPCFLUk9e/Z4rNJ8nBaJNnghflnp88mi1IT8mfmW+HlMS1/H+bg==
+  /phin/3.5.0:
+    dependencies:
+      centra: 2.4.2
+    dev: false
+    engines:
+      node: '>= 8'
+    resolution:
+      integrity: sha512-BEJYqD07B5uBFPAzNpLuLh0LzHr4MDLe0Vc6gBYi+PSIL57VbiE/UvkCc86x24pKQn2X2Keg7HTJEDr8BrBCCg==
+  /semver/7.3.2:
+    dev: false
+    engines:
+      node: '>=10'
+    hasBin: true
+    resolution:
+      integrity: sha512-OrOb32TeeambH6UrhtShmF7CRDqhL6/5XpPNp2DuRH6+9QLw/orhp72j87v8Qa1ScDkvrrBNpZcDejAirJmfXQ==
+specifiers:
+  phin: ^3.5.0
+  semver: ^7.3.2

@@ -1,0 +1,12 @@
+{
+  "name": "up-paper",
+  "version": "0.0.0",
+  "main": "paperfetcher.js",
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "phin": "^3.5.0",
+    "semver": "^7.3.2"
+  }
+}
